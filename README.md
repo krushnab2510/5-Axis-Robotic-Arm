@@ -1,6 +1,6 @@
 # 5-Axis Robotic Arm with Teach Pendant
 
-![5-Axis Robotic Arm](images/robotic_arm.jpg)
+![5-Axis Robotic Arm](5%20axis%20robot/2.jpeg)
 
 A 5-Axis Robotic Arm developed using Arduino UNO and servo motors. The system features a Teach Pendant that allows users to manually control the arm, record motion sequences, and replay them automatically. The teach-and-repeat functionality enables the robot to perform repetitive tasks accurately without complex programming, making it suitable for robotics education, research, and automation projects.
 
